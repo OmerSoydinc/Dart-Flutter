@@ -62,7 +62,7 @@ class _DenemeState extends State<Deneme>{
                       );
                       },
 
-                ),//amk yerine ; yazmışım
+                ),
           ],
 
                   ),
