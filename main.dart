@@ -9,7 +9,7 @@ void main() {
           title:Text("Sayaç Uygulamam :)"),
         ),
         body:Deneme(),
-      ),
+      ), 
     ),
   );
 }
